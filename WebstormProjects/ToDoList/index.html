@@ -1,0 +1,39 @@
+<html ng-app>
+<head>
+    <meta charset="UTF-8">
+    <title>To Do List</title>
+    <link rel="stylesheet" href="css.css">
+    <h1>To Do's For You's</h1>
+</head>
+<body style="background-color: #660000; color: white">
+
+    <my-list></my-list>
+
+    <div class="container" ng-controller="Todo">
+        <h2>You've got <span class="numTasks">{{getTotalToDo()}}</span> things to do</h2>
+        <ul>
+            <li ng-repeat="todo in todos">
+                <input type="checkbox" style="list-style-type: none" ng-model="todo.done"/>
+                <span class="done-{{todo.done}}">{{todo.text}}</span>
+            </li>
+        </ul>
+        <form>
+            <input placeholder="I need to..." type="text" ng-model="formTodoText" ng-model-instant />
+            <button ng-click="addTodo()" style="font-weight: bold; background-color: lightgreen; border-color: white; font-size: 10px; border-radius: 5px">
+                Add This Task
+            </button>
+        </form>
+        <button ng-click="clearCompleted()" style="color: white; background-color: cornflowerblue; border-color: white; font-size: 15px; border-radius: 5px;">Clear Completed Tasks</button>
+
+    </div>
+
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js"></script>
+    <!--<script src="js/angular-ui-router.min.js"></script>-->
+    <!-- app.js must be FIRST, since the component is added to it -->
+    <script src="todo.js"></script>
+    <script src="my-list/my-list.component.js"></script>
+    <script src="list-tasks/list-tasks.js"></script>
+
+</body>
+</html>

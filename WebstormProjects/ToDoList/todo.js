@@ -4,9 +4,7 @@
 
 function Todo($scope) {
 
-    $scope.todos = [
-        {text: 'Wake Up', done:false},
-    ];
+    $scope.
 
     $scope.getTotalTodos = function () {
         return $scope.todos.length;
@@ -14,5 +12,12 @@ function Todo($scope) {
 
     $scope.addTodo = function () {
         $scope.todos.push({text:$scope.formTodoText, done:false});
-    }
+        $scope.formTodoText = '';
+    };
+
+        $scope.clearCompleted = function () {
+            $scope.todos = _.filter($scope.todos, function (todo) {
+                return !todo.done;
+            });
+        };
 }
