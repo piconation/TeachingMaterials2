@@ -2,28 +2,42 @@
  * Created by mattpowell on 7/18/16.
  */
 
-// function Todo($scope) {
-//
-//     $scope.
-//
-//     $scope.getTotalTodos = function () {
-//         return $scope.todos.length;
-//     };
-//
-//     $scope.addTodo = function () {
-//         $scope.todos.push({text:$scope.formTodoText, done:false});
-//         $scope.formTodoText = '';
-//     };
-//
-//         $scope.clearCompleted = function () {
-//             $scope.todos = _.filter($scope.todos, function (todo) {
-//                 return !todo.done;
-//             });
-//         };
-// }
+(function () {
+    angular.module('myApp')
+        .component('myList', {
+            templateUrl: "components/myList.html",
+            controller: todo
+        })
 
-$scope.todos = [
-    {text: 'Wake Up', done:false},
-    {text: 'Eat', done:false},
-    {text: 'Sleep', done:false}
-];
+        function todo(myServ) {
+            var self = this;
+            self.selectedObject = undefined;
+            self.listInput = undefined;
+
+            .getTotalTodos = function () {
+                return myServ.todos.length;
+            };
+
+            self.addTodo = function () {
+                myServ.todos.push({text: myServ.formTodoText, done: false});
+                myServ.formTodoText = '';
+            };
+
+            //every function added here needs to be added as a self.xxx on the services page (which just pushes a new list) and then displayed with ng-repeat on the myList Html.
+
+            myServ.clearCompleted = function () {
+                myServ.todos = _.filter(myServ.todos, function (todo) {
+                    return todo.done;
+                });
+            };
+
+            myServ.todos = [
+                {text: 'Learn AngularJS', done: false},
+                {text: 'Build an app', done: false}
+            ];
+        })
+
+        self.clear = function (todo) {
+            
+        }
+})();
