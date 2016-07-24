@@ -1,16 +1,17 @@
-<html ng-app="myApp">
+<html ng-app>
 <head>
     <meta charset="UTF-8">
     <title>To Do List</title>
     <link rel="stylesheet" href="css.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
     <h1>To Do's For You's</h1>
 </head>
 <body style="background-color: #660000; color: white">
 
-    <my-list></my-list>
+    <my-list2></my-list2>
 
     <div class="container" ng-controller="Todo">
-        <h2>You've got <span class="numTasks">{{getTotalToDo()}}</span> things to do.</h2>
+        <h2>You've got <span class="numTasks">{{getTotalTodos()}}</span> things to do.</h2>
         <ul>
             <li ng-repeat="todo in todos">
                 <input type="checkbox" style="list-style-type: none" ng-model="todo.done"/>
@@ -23,12 +24,12 @@
                 Add This Task
             </button>
         </form>
-        <button ng-click="clearCompleted(todos?)" style="color: white; background-color: cornflowerblue; border-color: white; font-size: 15px; border-radius: 5px;">Clear Completed Tasks</button>
+        <button ng-click="clearCompleted(todos)" style="color: white; background-color: cornflowerblue; border-color: white; font-size: 15px; border-radius: 5px;">Clear Completed Tasks</button>
 
     </div>
 
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.js"></script>
-    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js"></script>
+    <!--<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.js"></script>-->
+    <!--<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js"></script>-->
     <!--<script src="js/angular-ui-router.min.js"></script>-->
     <!-- app.js must be FIRST, since the component is added to it -->
     <script src="todo.js"></script>

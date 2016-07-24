@@ -3,18 +3,14 @@
  */
 
 (function () {
-    angular.module('myApp')
-        .component('myList', {
-            templateUrl: "components/myList.html",
-            controller: todo
-        })
+    angular.module('myApp');
 
         function todo(myServ) {
             var self = this;
             self.selectedObject = undefined;
             self.listInput = undefined;
 
-            .getTotalTodos = function () {
+            self.getTotalTodos = function () {
                 return myServ.todos.length;
             };
 
@@ -35,7 +31,8 @@
                 {text: 'Learn AngularJS', done: false},
                 {text: 'Build an app', done: false}
             ];
-        })
+
+
 
         self.clear = function (todo) {
             
