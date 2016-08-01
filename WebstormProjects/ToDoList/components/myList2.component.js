@@ -13,8 +13,11 @@
     function myController(){
         var vm = this;
         console.log(vm.newList);
+        vm.Lists = [];
         vm.addList = function () {
-            console.log(vm.newList)
+            console.log(vm.newList);
+                vm.Lists.push({label:vm.newList, tasks:[]});
+            console.log(vm.Lists);
         }
     }
 

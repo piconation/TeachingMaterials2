@@ -2,9 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe8432f4-8d9c-4d3f-8757-694d4b75026d" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.01-OneModule/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.01-OneModule/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.01-OneModule/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.01-OneModule/js/my-example.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.02-ManyModules/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.02-ManyModules/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.02-ManyModules/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.02-ManyModules/js/my-example.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/component1/component1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/component1/component1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/matt-example/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/matt-example/matt-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/my-example/my-example.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/my-example/my-example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/matts-example/mattsExample.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/matts-example/my-example.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/my-example/my-example.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/my-example/my-example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.01-ngClass/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.01-ngClass/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.01-ngClass/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.01-ngClass/my-example/my-example.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.01-ngClass/my-example/my-example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.02-ngRepeat/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.02-ngRepeat/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.02-ngRepeat/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.02-ngRepeat/my-example/my-example.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.02-ngRepeat/my-example/my-example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.03-ngRepeatFilter/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.03-ngRepeatFilter/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.03-ngRepeatFilter/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.03-ngRepeatFilter/my-example/my-example.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.03-ngRepeatFilter/my-example/my-example.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/about/about.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/about/about.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/characters/char-detail.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/characters/char-detail.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/characters/char-list.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/characters/char-list.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.01-TransclusionInComponentExample/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.01-TransclusionInComponentExample/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/my-pane/my-pane.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/my-pane/my-pane.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/my-tabs/my-tabs.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/my-tabs/my-tabs.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/resources/movies.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/src/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/src/movie-list/movie-list.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/src/movie-list/movie-list.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/src/movie-rating/movie-rating.component.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/src/movie-rating/movie-rating.component.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/controllers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/controllers.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/myList.html" afterPath="$PROJECT_DIR$/components/myList.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/myList2.component.js" afterPath="$PROJECT_DIR$/components/myList2.component.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
     </list>
@@ -27,11 +95,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+            <state relative-caret-position="225">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -59,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="myList2.component.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="myList2.component.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/components/myList2.component.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="225">
+              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -131,9 +199,9 @@
         <option value="$PROJECT_DIR$/todo.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/components/myList.html" />
         <option value="$PROJECT_DIR$/components/myList2.component.js" />
+        <option value="$PROJECT_DIR$/index2.html" />
       </list>
     </option>
   </component>
@@ -143,10 +211,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="573" />
-    <option name="y" value="1190" />
-    <option name="width" value="1318" />
-    <option name="height" value="848" />
+    <option name="x" value="833" />
+    <option name="y" value="1176" />
+    <option name="width" value="1069" />
+    <option name="height" value="871" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -173,8 +241,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -300,7 +368,10 @@
       <workItem from="1469108733736" duration="2787000" />
       <workItem from="1469194768084" duration="8550000" />
       <workItem from="1469293458000" duration="5978000" />
-      <workItem from="1469550742412" duration="3835000" />
+      <workItem from="1469550742412" duration="3850000" />
+      <workItem from="1469626877583" duration="597000" />
+      <workItem from="1469713788350" duration="598000" />
+      <workItem from="1470068933772" duration="1209000" />
     </task>
     <task id="LOCAL-00001" summary="7.18.16">
       <created>1468858910699</created>
@@ -358,27 +429,34 @@
       <option name="project" value="LOCAL" />
       <updated>1469552157413</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="7.26.16b">
+      <created>1469554958376</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1469554958376</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31512000" />
+    <option name="totallyTimeSpent" value="33931000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="573" y="1190" width="1318" height="848" extended-state="0" />
+    <frame x="833" y="1176" width="1069" height="871" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17501928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21660306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09126984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08834827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -398,23 +476,113 @@
     <MESSAGE value="7.22.16" />
     <MESSAGE value="7.23.16" />
     <MESSAGE value="7.26.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.26.16" />
+    <MESSAGE value="7.26.16b" />
+    <MESSAGE value="8.1.16" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.1.16" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/components/myList2.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/listTask.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="1" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/listTasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/myList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/myList2.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/listTask.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" selection-start-line="1" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/listTasks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="88" selection-start-line="21" selection-start-column="88" selection-end-line="21" selection-end-column="88" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -432,12 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -475,21 +637,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
     <entry file="file://$PROJECT_DIR$/components/services.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -505,12 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,14 +694,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
     <entry file="file://$PROJECT_DIR$/components/listTasks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -568,12 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -611,14 +744,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
     <entry file="file://$PROJECT_DIR$/components/listTasks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -631,12 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -650,14 +770,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -672,41 +785,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="88" selection-start-line="24" selection-start-column="88" selection-end-line="24" selection-end-column="88" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
     <entry file="file://$PROJECT_DIR$/components/services.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
     <entry file="file://$PROJECT_DIR$/components/listTask.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -727,12 +817,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="36" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -754,14 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/myList.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -772,11 +848,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/components/myList2.component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
           <folding>
             <element signature="e#0#44#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>

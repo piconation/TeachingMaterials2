@@ -7,13 +7,14 @@
     <h1>To Do's For You's</h1>
 </head>
 <body>
-
+    <h1 ng-repeat="list">{{list.name}}</h1>
     <my-list2></my-list2>
     <list-tasks></list-tasks>
 
-    <div>
-
+    <div class="list">
+        {{list.name}}
     </div>
+
 
     <script src="app.js"></script>
     <script src="components/myList2.component.js"></script>
@@ -21,3 +22,7 @@
 </body>
 
 </html>
+
+
+
+<!-- I need to use ng-repeat to get the lists to show on the page after I create them. -->
