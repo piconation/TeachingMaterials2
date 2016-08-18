@@ -1,0 +1,10 @@
+<form name="listForm" ng-submit="vm.addList(vm.newList)">
+    <input name="listInput" required type="text" placeholder="Enter New List Here" ng-model="vm.newList">
+    <button ng-disabled="listForm.listInput.$invalid" type="submit">Add This List</button>
+</form>
+<br><br>
+<div ng-repeat="list in vm.lists">
+    <p>{{list.name}}</p>
+    <button ng-click="vm.removeItem($index)">Remove This List</button>
+</div>
+<button ng-click="vm.addTask()">Add A Task To This List</button>

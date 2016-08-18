@@ -2,78 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe8432f4-8d9c-4d3f-8757-694d4b75026d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.01-OneModule/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.01-OneModule/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.01-OneModule/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.01-OneModule/js/my-example.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.02-ManyModules/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.02-ManyModules/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.02-ManyModules/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.02-ManyModules/js/my-example.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/component1/component1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/component1/component1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/matt-example/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/matt-example/matt-example.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/my-example/my-example.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/02.03-Components/my-example/my-example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/matts-example/mattsExample.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/matts-example/my-example.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/my-example/my-example.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/04.01-FilterService/my-example/my-example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.01-ngClass/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.01-ngClass/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.01-ngClass/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.01-ngClass/my-example/my-example.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.01-ngClass/my-example/my-example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.02-ngRepeat/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.02-ngRepeat/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.02-ngRepeat/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.02-ngRepeat/my-example/my-example.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.02-ngRepeat/my-example/my-example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.03-ngRepeatFilter/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.03-ngRepeatFilter/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.03-ngRepeatFilter/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.03-ngRepeatFilter/my-example/my-example.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/06.03-ngRepeatFilter/my-example/my-example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/about/about.component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/about/about.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/characters/char-detail.component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/characters/char-detail.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/characters/char-list.component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/characters/char-list.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/08.01-MoreComponents/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.01-TransclusionInComponentExample/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.01-TransclusionInComponentExample/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/my-pane/my-pane.component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/my-pane/my-pane.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/my-tabs/my-tabs.component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.02-TransclusionInComponentExercise/my-tabs/my-tabs.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/resources/movies.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/src/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/src/movie-list/movie-list.component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/src/movie-list/movie-list.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/src/movie-rating/movie-rating.component.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/src/movie-rating/movie-rating.component.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/09.03-TransclusionInComponentLab/styles.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/controllers.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Angular-1.5/controllers.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/components/myList/myList.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/components/testController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/services.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/myList.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/components/services.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app.js" afterPath="$PROJECT_DIR$/js/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/components/listTask.html" afterPath="$PROJECT_DIR$/js/components/listTask/listTask.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/components/listTasks.js" afterPath="$PROJECT_DIR$/js/components/listTask/listTasks.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/components/myList2.component.js" afterPath="$PROJECT_DIR$/js/components/myList/myList2.component.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/css.css" afterPath="$PROJECT_DIR$/css/css.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/myList2.component.js" afterPath="$PROJECT_DIR$/components/myList2.component.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index2.html" afterPath="$PROJECT_DIR$/index2.html" />
     </list>
     <ignored path="ToDoList.iws" />
@@ -95,21 +36,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            <state relative-caret-position="345">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.js">
+        <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
               <folding>
                 <element signature="e#0#44#0" expanded="false" />
               </folding>
@@ -118,52 +59,30 @@
         </entry>
       </file>
       <file leaf-file-name="myList.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/myList.html">
+        <entry file="file://$PROJECT_DIR$/js/components/myList/myList.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+            <state relative-caret-position="75">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="myList2.component.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/myList2.component.js">
+        <entry file="file://$PROJECT_DIR$/js/components/myList/myList2.component.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#44#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="listTask.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/listTask.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="7" selection-start-line="1" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="listTasks.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/components/listTasks.js">
+      <file leaf-file-name="services.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/services.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="css.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            <state relative-caret-position="270">
+              <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -175,8 +94,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -193,15 +112,24 @@
         <option value="$PROJECT_DIR$/myList.component.js" />
         <option value="$PROJECT_DIR$/components/listTask.html" />
         <option value="$PROJECT_DIR$/components/listTasks.js" />
-        <option value="$PROJECT_DIR$/components/services.js" />
         <option value="$PROJECT_DIR$/components/myList.component.js" />
         <option value="$PROJECT_DIR$/components/myList.component2.js" />
         <option value="$PROJECT_DIR$/todo.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/components/myList.html" />
+        <option value="$PROJECT_DIR$/components/testController.js" />
+        <option value="$PROJECT_DIR$/index3.html" />
+        <option value="$PROJECT_DIR$/components/services.js" />
         <option value="$PROJECT_DIR$/components/myList2.component.js" />
+        <option value="$PROJECT_DIR$/components/myList.html" />
+        <option value="$PROJECT_DIR$/components/myList/myList2.component.js" />
+        <option value="$PROJECT_DIR$/js/components/testController.js" />
+        <option value="$PROJECT_DIR$/js/app.js" />
+        <option value="$PROJECT_DIR$/js/components/services.js" />
         <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/js/components/myList/myList.html" />
+        <option value="$PROJECT_DIR$/js/components/myList/myList2.component.js" />
+        <option value="$PROJECT_DIR$/js/services.js" />
       </list>
     </option>
   </component>
@@ -211,10 +139,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="833" />
-    <option name="y" value="1176" />
-    <option name="width" value="1069" />
-    <option name="height" value="871" />
+    <option name="x" value="659" />
+    <option name="y" value="1165" />
+    <option name="width" value="1086" />
+    <option name="height" value="859" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -241,8 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -271,12 +197,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,10 +218,14 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/components/myList" />
+      <recent name="$PROJECT_DIR$/components/listTask" />
       <recent name="$PROJECT_DIR$/components" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/components" />
     </key>
   </component>
@@ -371,7 +303,8 @@
       <workItem from="1469550742412" duration="3850000" />
       <workItem from="1469626877583" duration="597000" />
       <workItem from="1469713788350" duration="598000" />
-      <workItem from="1470068933772" duration="1209000" />
+      <workItem from="1470068933772" duration="1222000" />
+      <workItem from="1471528190177" duration="10697000" />
     </task>
     <task id="LOCAL-00001" summary="7.18.16">
       <created>1468858910699</created>
@@ -436,20 +369,27 @@
       <option name="project" value="LOCAL" />
       <updated>1469554958376</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="8.1.16">
+      <created>1470070797939</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1470070797939</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33931000" />
+    <option name="totallyTimeSpent" value="44641000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="833" y="1176" width="1069" height="871" extended-state="0" />
+    <frame x="659" y="1165" width="1086" height="859" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21660306" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21314554" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08834827" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08972692" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -485,25 +425,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/components/myList2.component.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/listTask.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" selection-start-line="1" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/listTasks.js">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTasks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -511,7 +433,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css.css">
+    <entry file="file://$PROJECT_DIR$/css/css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
@@ -527,7 +449,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
@@ -537,7 +459,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.html">
+    <entry file="file://$PROJECT_DIR$/js/components/myList/myList.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
@@ -545,17 +467,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList2.component.js">
+    <entry file="file://$PROJECT_DIR$/js/components/myList/myList2.component.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/listTask.html">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTask.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" selection-start-line="1" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
@@ -563,7 +483,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/listTasks.js">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTasks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -571,7 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css.css">
+    <entry file="file://$PROJECT_DIR$/css/css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
@@ -586,13 +506,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList2.component.js">
+    <entry file="file://$PROJECT_DIR$/js/components/myList/myList2.component.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -603,7 +521,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css.css">
+    <entry file="file://$PROJECT_DIR$/css/css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
@@ -611,7 +529,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
@@ -621,7 +539,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.html">
+    <entry file="file://$PROJECT_DIR$/js/components/myList/myList.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
@@ -629,7 +547,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/listTask.html">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTask.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" selection-start-line="1" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
@@ -638,14 +556,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
-    <entry file="file://$PROJECT_DIR$/components/services.js">
+    <entry file="file://$PROJECT_DIR$/js/services.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/listTasks.js">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTasks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -660,7 +578,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css.css">
+    <entry file="file://$PROJECT_DIR$/css/css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
@@ -668,7 +586,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="22" column="4" selection-start-line="4" selection-start-column="0" selection-end-line="22" selection-end-column="4" />
@@ -678,7 +596,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.html">
+    <entry file="file://$PROJECT_DIR$/js/components/myList/myList.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -686,7 +604,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/listTask.html">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTask.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" selection-start-line="1" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
@@ -695,7 +613,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
-    <entry file="file://$PROJECT_DIR$/components/listTasks.js">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTasks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -710,7 +628,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css.css">
+    <entry file="file://$PROJECT_DIR$/css/css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
@@ -718,7 +636,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
@@ -728,7 +646,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.html">
+    <entry file="file://$PROJECT_DIR$/js/components/myList/myList.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -736,7 +654,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/listTask.html">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTask.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" selection-start-line="1" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
@@ -745,7 +663,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
-    <entry file="file://$PROJECT_DIR$/components/listTasks.js">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTasks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -760,7 +678,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="15" column="66" selection-start-line="15" selection-start-column="66" selection-end-line="15" selection-end-column="66" />
@@ -771,7 +689,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
-    <entry file="file://$PROJECT_DIR$/app.js">
+    <entry file="file://$PROJECT_DIR$/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -789,23 +707,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
-    <entry file="file://$PROJECT_DIR$/components/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/components/myList.component.js" />
-    <entry file="file://$PROJECT_DIR$/components/listTask.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="7" selection-start-line="1" selection-start-column="1" selection-end-line="9" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css.css">
+    <entry file="file://$PROJECT_DIR$/css/css.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
@@ -813,24 +716,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/index3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="36" selection-end-column="51" />
+        <state relative-caret-position="345">
+          <caret line="23" column="33" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="77" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#44#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/components/listTasks.js">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTasks.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -838,18 +732,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList.html">
+    <entry file="file://$PROJECT_DIR$/js/components/listTask/listTask.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/components/myList2.component.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+        <state relative-caret-position="510">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="36" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/testController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding>
             <element signature="e#0#44#0" expanded="false" />
           </folding>
@@ -858,8 +770,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="345">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/myList/myList2.component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/myList/myList.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding />
         </state>
       </provider>

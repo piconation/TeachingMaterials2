@@ -5,7 +5,7 @@
 (function(){
 
     // this CREATES the myApp module (because it has the second, array parameter)
-    angular.module('app', [/* listed imported modules here */]);
+    angular.module('app', ['ngStorage'/* list imported modules here */]);
 
 })();
 
