@@ -1,9 +1,10 @@
 (function () {
     angular.module('app')
-        .service('myService', function ($localStorage) {
+        .service('myService', function ($localStorage, $mdToast) {
             
             var lists;
-            
+            var selectedList;
+
             if($localStorage.lists){
                 lists = $localStorage.lists;
             }
@@ -34,13 +35,12 @@
             this.add = function (newList, newTask) {
                 
                 if(!newTask) {
-                    console.log(newList);
                     lists.push({name: newList, tasks: []});
-                    console.log(lists);
+                    showToast(newList);
                 }
-                    
                 else{
-                    
+                    newList.tasks.push({name : newTask});
+                    showToast(newTask);
                 }
             };
             
@@ -56,5 +56,24 @@
             this.get = function () {
                 return lists;
             };
+
+            this.selectList = function (list) {
+                if(list) {
+                    selectedList = list;
+                }
+            };
+            
+            this.getSelectedList = function () {
+              return selectedList;  
+            };
+
+            function showToast(item) {
+                $mdToast.show(
+                    $mdToast.simple()
+                        .textContent(item + ' added!')
+                        .position('bottom right')
+                        .hideDelay(3000)
+                );
+            }
         })
 })();
