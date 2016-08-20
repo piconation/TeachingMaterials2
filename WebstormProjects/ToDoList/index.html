@@ -1,40 +1,36 @@
-<html ng-app>
+<!DOCTYPE html>
+<html ng-app="app">
 <head>
     <meta charset="UTF-8">
     <title>To Do List</title>
     <link rel="stylesheet" href="css/css.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script>
-    <h1>To Do's For You's</h1>
+    <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/angular_material/1.0.9/angular-material.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/ngStorage/0.3.6/ngStorage.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.3.1/angular-ui-router.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.4.0/angular-animate.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-aria.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-messages.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/angular_material/1.0.9/angular-material.min.js"></script>
+
 </head>
-<body style="background-color: #660000; color: white">
+<body style="padding: 10px; background-image: url(images/geterdone2.jpg); background-size: cover;">
+<br>
+<div>
+<a ui-sref="about" style="margin: 10px">About</a>
+<a ui-sref="myList" style="margin: 10px">My Lists</a>
+</div>
 
-    <my-list2></my-list2>
+<div ui-view class="animation">
+</div>
 
-    <div class="container" ng-controller="Todo">
-        <h2>You've got <span class="numTasks">{{getTotalTodos()}}</span> things to do.</h2>
-        <ul>
-            <li ng-repeat="todo in todos">
-                <input type="checkbox" style="list-style-type: none" ng-model="todo.done"/>
-                <span class="done-{{todo.done}}">{{todo.text}}</span>
-            </li>
-        </ul>
-        <form>
-            <input placeholder="I need to..." type="text" ng-model="formTodoText" ng-model-instant />
-            <button ng-click="addTodo()" style="font-weight: bold; background-color: lightgreen; border-color: white; font-size: 10px; border-radius: 5px">
-                Add This Task
-            </button>
-        </form>
-        <button ng-click="clearCompleted(todos)" style="color: white; background-color: cornflowerblue; border-color: white; font-size: 15px; border-radius: 5px;">Clear Completed Tasks</button>
 
-    </div>
-
-    <!--<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.js"></script>-->
-    <!--<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.min.js"></script>-->
-    <!--<script src="js/angular-ui-router.min.js"></script>-->
-    <!-- app.js must be FIRST, since the component is added to it -->
-    <script src="js/app.js"></script>
-    <script src="js/components/myList.component.js"></script>
-    <script src="js/components/listTasks/listTasks.js"></script>
-
+<script src="js/app.js"></script>
+<script src="js/services.js"></script>
+<script src="js/filters/custom.js"></script>
+<script src="js/components/myList/myList.component.js"></script>
+<script src="js/components/listTasks/listTasks.js"></script>
+<script src="js/components/about/about.js"></script>
 </body>
+
 </html>

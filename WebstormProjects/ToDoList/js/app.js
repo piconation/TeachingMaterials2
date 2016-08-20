@@ -9,16 +9,16 @@
     
         .config(function($stateProvider, $urlRouterProvider) {
             
-            $urlRouterProvider.otherwise('/myList');
+            $urlRouterProvider.otherwise('/about');
             
             $stateProvider
-                .state('myList', {
-                    url: '/myList',
-                    template: '<my-list></my-list>'
-                })
                 .state('about', {
                     url: '/about',
                     template: '<about></about>'
+                })
+                .state('myList', {
+                    url: '/myList',
+                    template: '<my-list></my-list>'
                 })
                 .state('listTasks', {
                     url: '/listTasks',

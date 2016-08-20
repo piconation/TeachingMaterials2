@@ -35,7 +35,7 @@
             this.add = function (newList, newTask) {
                 
                 if(!newTask) {
-                    lists.push({name: newList, tasks: []});
+                    lists.push({name: newList, tasks: [], done: false});
                     showToast(newList);
                 }
                 else{
@@ -71,8 +71,8 @@
                 $mdToast.show(
                     $mdToast.simple()
                         .textContent(item + ' added!')
-                        .position('bottom right')
-                        .hideDelay(3000)
+                        .position('bottom left')
+                        .hideDelay(4000)
                 );
             }
         })
