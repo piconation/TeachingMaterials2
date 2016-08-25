@@ -1,12 +1,12 @@
 <form name="listForm" ng-submit="vm.addList(vm.newList)">
-    <h1 style="color: forestgreen">To Do's For You's</h1>
+    <h1 style="color: #503c16">To Do's For You's</h1>
     <input name="listInput" required type="text" placeholder="Enter New List Here" ng-model="vm.newList">
     <button ng-disabled="listForm.listInput.$invalid" type="submit">Add This List</button>
 </form>
 <br><br>
 <div ng-repeat="list in vm.lists">
     <a ui-sref="listTasks" ng-click="vm.selectList(list)">{{list.name | custom}}</a>
-    <button style="margin-left: 20px; border-radius: 20px; background-color: lightgreen"; ng-click="vm.removeItem($index)"><- Remove This List</button>
+    <button style="margin-left: 20px; border-radius: 20px; color: white; background-color: #503c16"; ng-click="vm.removeItem($index)"><- Remove This List</button>
     <br>
     <br>
 </div>

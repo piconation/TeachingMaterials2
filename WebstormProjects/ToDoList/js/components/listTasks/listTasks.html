@@ -1,14 +1,14 @@
 
-<h1 style="color: forestgreen">{{vm.myList.name}} List</h1>
+<h1 style="color: #503c16">{{vm.myList.name}} List</h1>
 <form name="listTask" ng-submit="vm.addTask(vm.newTask)">
     <input name="taskInput" required type="text" placeholder="Enter New Task Here" ng-model="vm.newTask">
     <button ng-disabled="listTask.taskInput.$invalid" type="submit">Add This Task</button>
 </form>
-<br>
+<br><br>
 <div ng-repeat="task in vm.myList.tasks">
     <input type="checkbox"/>
            <span>{{task.name | custom}}</span>
-    <button ng-click="vm.deleteTask($index)" style="margin-left: 20px; border-radius: 20px; background-color: lightgreen"><- Delete This Task</button>
+    <button ng-click="vm.deleteTask($index)" style="margin-left: 20px; border-radius: 20px; color: white; background-color: #503c16"><- Delete This Task</button>
     <br>
     <br>
 </div>

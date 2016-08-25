@@ -1,11 +1,11 @@
 @keyframes enter {
-    from{top: 8%; left: -105%}
-    to{top: 8%; left: 5%}
+    from{top: 7%; left: -105%}
+    to{top: 7%; left: 5%}
 }
 
 @keyframes leave {
-    from{top: 8%; left: 5%}
-    to{top: 8%; left: 105%}
+    from{top: 7%; left: 5%}
+    to{top: 7%; left: 105%}
 }
 
 .done-true {
