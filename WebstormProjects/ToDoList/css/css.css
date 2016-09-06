@@ -8,11 +8,6 @@
     to{top: 7%; left: 105%}
 }
 
-.done-true {
-    text-decoration: line-through;
-    color: darkgray;
-}
-
 .animation.ng-enter {
     position: absolute;
     width: 70%;
