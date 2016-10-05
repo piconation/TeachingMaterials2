@@ -1,0 +1,73 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.topbar {
+  width: 100%;
+  margin: 0 auto;
+  height: 65px;
+  background-color: dimgray;
+  font-size: 20px;
+  color: white;
+}
+.topbar .topleft {
+  float: left;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 20px;
+}
+.topbar .topright {
+  float: right;
+  text-align: right;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 20px;
+}
+.main {
+  width: 100%;
+  margin: 0 auto;
+  height: 100%;
+}
+.main .leftnav {
+  float: left;
+  width: 20%;
+  margin: 0 auto;
+  height: 100%;
+  font-size: 25px;
+  color: dimgray;
+  background-color: bisque;
+  border: solid black 1px;
+}
+.main .body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  overflow: hidden;
+}
+.main .body .body1 {
+  display: inline-block;
+  float: left;
+  background-color: lightskyblue;
+  width: 59%;
+  height: 400px;
+  overflow: hidden;
+  color: dimgray;
+}
+.main .body .body2 {
+  display: inline-block;
+  float: right;
+  background-color: lightgreen;
+  width: 19%;
+  height: 200px;
+  overflow: hidden;
+  color: dimgray;
+}
+.main .body .body3 {
+  background-color: lightcoral;
+  width: 100%;
+  height: 200px;
+  color: dimgray;
+}

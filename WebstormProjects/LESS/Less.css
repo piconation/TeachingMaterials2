@@ -1,18 +1,23 @@
+@import "foo.css";
 body {
   padding: 0;
   margin: 0;
 }
 .hero {
-  width: 95%;
-  margin: 25px auto;
+  width: 55%;
   height: 300px;
-  background-color: indianred;
   font-size: 60px;
   color: white;
   text-align: center;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  color: orange;
+  box-shadow: 10px 10px 10px 0px gray;
+  border-radius: 500px;
+  background-color: aquamarine;
+  margin: 25px;
+  padding: 25px;
 }
 .midsection {
   width: 95%;
@@ -30,6 +35,12 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  color: orange;
+  box-shadow: 10px 10px 10px 0px gray;
+  border-radius: 500px;
+  background-color: aquamarine;
+  margin: 25px;
+  padding: 25px;
 }
 .midsection .bottom {
   display: flex;
@@ -46,4 +57,10 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  color: orange;
+  box-shadow: 10px 10px 10px 0px gray;
+  border-radius: 500px;
+  background-color: aquamarine;
+  margin: 25px;
+  padding: 25px;
 }
