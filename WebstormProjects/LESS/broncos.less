@@ -41,12 +41,58 @@ html {
 }
 
 .content {
-  height: 500px;
+  //height: 500px;
   background-color: #ffffff;
   font-size: @basefontsize;
-  padding-top: 120px;
-  padding-left: 50px;
-  padding-right: 50px;
+  //padding-top: 120px;
+  //padding-left: 50px;
+  //padding-right: 50px;
+
+  .pagecenter {
+    margin: 100px auto;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .leftside {
+      font-size: 20px;
+      width: 47%;
+    }
+
+    .headline {
+      font-size: 45px;
+      margin: 5px auto;
+    }
+
+    .rightside{
+      margin: 0;
+      height: 200px;
+      margin-top: 100px;
+    }
+
+    .linkbox {
+      width: 100%;
+      margin-top: 30px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+
+      .contentbutton {
+        text-decoration: none;
+        border: 2px solid #000000;
+        border-radius: 3px;
+        color: #000000;
+        padding: 12px 35px;
+      }
+    }
+
+    span {
+      line-height: 2.3;
+      margin-top: 40px;
+      display: block;
+    }
+  }
 }
 
 .paralax2 {

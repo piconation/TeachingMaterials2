@@ -35,37 +35,39 @@ body {
   float: left;
   width: 20%;
   margin: 0 auto;
-  height: 100%;
+  height: 598px;
   font-size: 25px;
   color: dimgray;
   background-color: bisque;
   border: solid black 1px;
 }
-.main .body {
-  display: flex;
-  flex-direction: column;
+.main .rmain {
   justify-content: space-around;
   overflow: hidden;
 }
-.main .body .body1 {
+.main .rmain .topmiddle {
+  width: 100%;
+  height: 400px;
+}
+.main .rmain .body1 {
   display: inline-block;
   float: left;
   background-color: lightskyblue;
-  width: 59%;
+  width: 70%;
   height: 400px;
   overflow: hidden;
   color: dimgray;
 }
-.main .body .body2 {
+.main .rmain .body2 {
   display: inline-block;
   float: right;
   background-color: lightgreen;
-  width: 19%;
+  width: 30%;
   height: 200px;
   overflow: hidden;
   color: dimgray;
 }
-.main .body .body3 {
+.main .rmain .body3 {
   background-color: lightcoral;
   width: 100%;
   height: 200px;

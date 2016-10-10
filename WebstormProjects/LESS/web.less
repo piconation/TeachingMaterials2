@@ -62,24 +62,28 @@ body {
     float: left;
     width: 20%;
     margin: 0 auto;
-    height: 100%;
+    height: 598px;
     font-size: @font-size;
     color: @color;
     background-color: bisque;
     border: solid black 1px;
   }
 
-  .body {
-    display: @display;
-    flex-direction: @flex-direction;
+  .rmain {
+    //display: @display;
     justify-content: @justify-content;
     overflow: hidden;
+
+    .topmiddle {
+      width: 100%;
+      height: 400px;
+    }
 
     .body1 {
       display: inline-block;
       float: left;
       background-color: lightskyblue;
-      width: 59%;
+      width: 70%;
       height: 400px;
       overflow: hidden;
       color: @color;
@@ -89,7 +93,7 @@ body {
       display: inline-block;
       float: right;
       background-color: lightgreen;
-      width: 19%;
+      width: 30%;
       height: 200px;
       overflow: hidden;
       color: @color;
