@@ -1,5 +1,5 @@
 {
-  "name": "Node",
+  "name": "node",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -13,5 +13,10 @@
     "express": "~4.13.1",
     "morgan": "~1.6.1",
     "serve-favicon": "~2.3.0"
-  }
+  },
+  "main": "test.js",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
