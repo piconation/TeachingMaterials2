@@ -1,9 +1,39 @@
 body {
     background-color: #725599;
+    margin: 0 auto;
+}
+
+h1 {
+    margin: 30px;
+    color: white;
+    font-size: 70px;
+    text-align: center;
 }
 
 .img {
-    width: 600px;
-    height: 375px;
-    border-radius: 50px;
+    width: 450px;
+    height: 450px;
+    border-radius: 500px;
+    opacity: 0.3;
+}
+
+.img:hover {
+    opacity: 1.0;
+}
+
+#dory {
+    float: left;
+    overflow: hidden;
+}
+
+#home {
+    float: none;
+    overflow: hidden;
+    margin-top: 400px;
+}
+
+#out {
+    float: none;
+    overflow: hidden;
+    margin-bottom: 400px;
 }
