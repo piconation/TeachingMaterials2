@@ -5,5 +5,5 @@ block content
     ul
         each user in users
             li Name: #{user.name}, Email: #{user.email}
-            form(id="myForm", method="delete", action="/users/delete/#{user.name}")
+            form(id="myForm", method="post", action="/users/delete/#{user.name}")
                 input(type="submit", value="Delete User")
