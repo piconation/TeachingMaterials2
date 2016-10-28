@@ -22,12 +22,16 @@ router.post('/create', function(req, res, next){
     res.redirect("/users");
 });
 
-router.delete('/:name', function(req, res, next) {
-    for(var i = )
-    
+router.delete('/delete/:name', function(req, res, next) {
+    for(var i = 0; i < req.session.users.length; i++){
+        var user = req.session.users[i];
+        if (user.name === req.params.name){
+            req.session.users.splice(i, 1);
+            break;
+        }
+    }
     
     res.redirect("/users");
-
 
 });
 
