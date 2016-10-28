@@ -17,8 +17,22 @@ router.post('/create', function(req, res, next){
         name: req.body.name,
         email: req.body.email
     };
-
+    
+    req.session.users.push(user);
     res.redirect("/users");
 });
+
+router.delete('/:name', function(req, res, next) {
+    for(var i = )
+    
+    
+    res.redirect("/users");
+
+
+});
+
+// router.delete('/delete', function (req, res, next) {
+//     res.render("delete-user");
+// });
 
 module.exports = router;
